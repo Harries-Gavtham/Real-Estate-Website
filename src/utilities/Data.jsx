@@ -183,8 +183,8 @@ export const housesData = [
   },
   {
     id: 7,
-    type: "Apartament",
-    name: "Apartament 1",
+    type: "Apartment",
+    name: "Apartment 1",
     description:
       "Move-in ready ranch with low maintenance. Sunroom addition & updated appliances. Easy living awaits! ",
     image: Apartment1,
@@ -204,8 +204,8 @@ export const housesData = [
   },
   {
     id: 8,
-    type: "Apartament",
-    name: "Apartament 2",
+    type: "Apartment",
+    name: "Apartment 2",
     description:
       "Light-filled loft with exposed brick. Rooftop terrace & modern kitchen. Urban chic living! ",
     image: Apartment2,
@@ -225,8 +225,8 @@ export const housesData = [
   },
   {
     id: 9,
-    type: "Apartament",
-    name: "Apartament 3",
+    type: "Apartment",
+    name: "Apartment 3",
     description:
       "Luxury condo with chef's kitchen & marble countertops. Walk-in shower & stunning city views. Unwind in style!",
     image: Apartment3,
@@ -372,8 +372,8 @@ export const housesData = [
   },
   {
     id: 16,
-    type: "Apartament",
-    name: "Apartament 16",
+    type: "Apartment",
+    name: "Apartment 16",
     description:
       "Industrial loft conversion with soaring ceilings. Exposed brick walls & modern kitchen. Live in a work of art!",
     image: Apartment4,
@@ -393,8 +393,8 @@ export const housesData = [
   },
   {
     id: 17,
-    type: "Apartament",
-    name: "Apartament 17",
+    type: "Apartment",
+    name: "Apartment 17",
     description:
       "Immaculate condo with panoramic mountain views. Balcony access from every bedroom. Wake up to paradise! ",
     image: Apartment5,
@@ -414,8 +414,8 @@ export const housesData = [
   },
   {
     id: 18,
-    type: "Apartament",
-    name: "Apartament 18",
+    type: "Apartment",
+    name: "Apartment 18",
     description:
       "Studio apartment with jaw-dropping city skyline views. Sleek Murphy bed & modern appliances. Urban living redefined! ",
     image: Apartment6,
