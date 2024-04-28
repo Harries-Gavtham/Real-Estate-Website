@@ -12,9 +12,7 @@ const Banner = () => {
             Us.
           </h1>
           <p className="max-w-[480px] mb-8">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores
-            tempore alias sapiente reiciendis veritatis sit beatae architecto
-            minus deserunt unde!
+          Own Your Piece of Paradise. Browse Homes Now!
           </p>
         </div>
         <div className="hidden flex-1 lg:flex justify-end items-end">
