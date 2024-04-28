@@ -10,7 +10,7 @@ const PropertyDetails = () => {
     return house.id === parseInt(id);
   });
   return (
-    <section>
+    <section className="px-2">
       <div className="container mx-auto min-h-[800px] mb-14">
         <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between">
           <div>
