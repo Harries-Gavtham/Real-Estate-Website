@@ -10,7 +10,7 @@ const HouseContextProvider = ({ children }) => {
   const [property, setProperty] = useState("Property type (any)");
   const [properties, setProperties] = useState([]);
   const [price, setPrice] = useState("Price range (any)");
-  const [loading, setLoading] = useState("false");
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
     const allCountries = houses.map((house) => {
@@ -105,7 +105,6 @@ const HouseContextProvider = ({ children }) => {
         houses,
         loading,
         handleClick,
-        loading,
       }}
     >
       {children}
