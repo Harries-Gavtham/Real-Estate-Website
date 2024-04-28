@@ -60,7 +60,7 @@ export const housesData = [
     type: "House",
     name: "House 1",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Cozy 6-bedroom bungalow near charming cafes. Fenced yard & updated bathroom. Perfect starter home!",
     image: House1,
     imageLg: House1Lg,
     country: "United States",
@@ -81,7 +81,7 @@ export const housesData = [
     type: "House",
     name: "House 2",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Modern 3-bed in trendy Midtown. Rooftop deck & chef's kitchen. Urban oasis awaits!",
     image: House2,
     imageLg: House2Lg,
     country: "Canada",
@@ -102,7 +102,7 @@ export const housesData = [
     type: "House",
     name: "House 3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Sun-drenched 6-bedroom in family-friendly neighborhood. Sparkling pool & spacious living area. Must-see!",
     image: House3,
     imageLg: House3Lg,
     country: "United States",
@@ -123,7 +123,7 @@ export const housesData = [
     type: "House",
     name: "House 4",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Historic Victorian in walkable downtown. Original details & modern upgrades. Live in a piece of history! ",
     image: House4,
     imageLg: House4Lg,
     country: "Canada",
@@ -144,7 +144,7 @@ export const housesData = [
     type: "House",
     name: "House 5",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Luxury condo with breathtaking city views. Private balcony & open floor plan. Downtown living at its finest!",
     image: House5,
     imageLg: House5Lg,
     country: "United States",
@@ -165,7 +165,7 @@ export const housesData = [
     type: "House",
     name: "House 6",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Spacious townhouse in quiet cul-de-sac. Finished basement & private patio. Perfect for entertaining!",
     image: House6,
     imageLg: House6Lg,
     country: "Canada",
@@ -186,7 +186,7 @@ export const housesData = [
     type: "Apartament",
     name: "Apartament 1",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Move-in ready ranch with low maintenance. Sunroom addition & updated appliances. Easy living awaits! ",
     image: Apartment1,
     imageLg: Apartment1Lg,
     country: "Canada",
@@ -207,7 +207,7 @@ export const housesData = [
     type: "Apartament",
     name: "Apartament 2",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Light-filled loft with exposed brick. Rooftop terrace & modern kitchen. Urban chic living! ",
     image: Apartment2,
     imageLg: Apartment2Lg,
     country: "United States",
@@ -228,7 +228,7 @@ export const housesData = [
     type: "Apartament",
     name: "Apartament 3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Luxury condo with chef's kitchen & marble countertops. Walk-in shower & stunning city views. Unwind in style!",
     image: Apartment3,
     imageLg: Apartment3Lg,
     country: "United States",
@@ -249,7 +249,7 @@ export const housesData = [
     type: "House",
     name: "House 7",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Bright & airy townhouse in desirable school district. Private patio & stainless steel appliances. Perfect for families!",
     image: House7,
     imageLg: House7Lg,
     country: "Canada",
@@ -270,7 +270,7 @@ export const housesData = [
     type: "House",
     name: "House 8",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Stunning Mediterranean-style villa. Private pool & lush landscaping. Resort living at home! ",
     image: House8,
     imageLg: House8Lg,
     country: "Canada",
@@ -291,7 +291,7 @@ export const housesData = [
     type: "House",
     name: "House 9",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Spacious colonial with finished basement. Home theater & wet bar. Perfect for movie nights! ",
     image: House9,
     imageLg: House9Lg,
     country: "United States",
@@ -312,7 +312,7 @@ export const housesData = [
     type: "House",
     name: "House 10",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Renovated studio in trendy neighborhood. Walkable to shops & restaurants. Urban living made simple!",
     image: House10,
     imageLg: House10Lg,
     country: "Canada",
@@ -333,7 +333,7 @@ export const housesData = [
     type: "House",
     name: "House 11",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "End-unit townhouse with extra windows & natural light. Fenced backyard & finished attic space. Bonus features galore!",
     image: House11,
     imageLg: House11Lg,
     country: "United States",
@@ -354,7 +354,7 @@ export const housesData = [
     type: "House",
     name: "House 12",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Craftsman bungalow with original wood details. Inviting front porch & cozy fireplace. Step back in time!",
     image: House12,
     imageLg: House12Lg,
     country: "Canada",
@@ -375,7 +375,7 @@ export const housesData = [
     type: "Apartament",
     name: "Apartament 16",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Industrial loft conversion with soaring ceilings. Exposed brick walls & modern kitchen. Live in a work of art!",
     image: Apartment4,
     imageLg: Apartment4Lg,
     country: "Canada",
@@ -396,7 +396,7 @@ export const housesData = [
     type: "Apartament",
     name: "Apartament 17",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Immaculate condo with panoramic mountain views. Balcony access from every bedroom. Wake up to paradise! ",
     image: Apartment5,
     imageLg: Apartment5Lg,
     country: "United States",
@@ -417,7 +417,7 @@ export const housesData = [
     type: "Apartament",
     name: "Apartament 18",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
+      "Studio apartment with jaw-dropping city skyline views. Sleek Murphy bed & modern appliances. Urban living redefined! ",
     image: Apartment6,
     imageLg: Apartment6Lg,
     country: "Canada",
