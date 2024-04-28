@@ -5,11 +5,11 @@ import logo from "../assets/logo.svg";
 const Header = () => {
   return (
     <header className="py-6 mb-12 border-b">
-      <div className="container mx-auto flex justify-between items-center">
+      <div className="container px-2 mx-auto flex justify-between items-center">
         <Link>
           <img src={logo} alt="Logo" />
         </Link>
-        <div className="flex items-center gap-6">
+        <div className="flex items-center gap-3 sm:gap-6">
           <Link className="hover:text-violet-900 transition" to="">
             Log in
           </Link>
